@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kerubo123
+- 👋 Hi, I’m @Nyphian
 - 👀 I’m interested in creating intuitive UI designs, interactive desirable User Experience.
 - 🌱 I’m currently learning backend technologies such as laravel, Django and Java Springboot.
 - 💞️ I’m looking to collaborate on projects that are at the hear of humanity and challanging.
