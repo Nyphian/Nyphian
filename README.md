@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyphian
 - Am a Kenyan UI/UX Designer, Frontend Developer.
 - 👀 I’m interested in creating intuitive UI designs, bringin to life interactive & desirable User Experience.
-- 🌱 I’m currently learning backend technologies such as laravel, Django and Java Springboot also figuring out a few thing to do with flutter.
+- 🌱 I’m currently learning backend technologies such as laravel, Django and Java Springboot also figuring out a few thing to do with flutter/Dart.
 - 💞️ I’m looking to collaborate on projects that are at the heart of humanity and challanging the norms of creativity, and discovering new likes.
 - 📫 Reach me through Twitter: & LinkedIn:
